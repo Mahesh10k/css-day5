@@ -1,0 +1,58 @@
+h1 {
+    position: fixed;
+    top: 0%;
+    padding: 20px;
+    background-color: skyblue;
+    text-align: center;
+    vertical-align: center;
+    width: 100%;
+    z-index: 10;
+    text-shadow: 3px 3px 3px gold;
+    color: green;
+    text-decoration: solid overline underline green ;
+}
+div {
+    position: absolute;
+    top: 120px;
+    z-index: 1;
+}
+.one {
+    position: absolute;
+}
+.two {
+    position: absolute;
+    top: 250px;
+}
+.three {
+    position: absolute;
+    left: 75vw;
+}
+.four {
+    position: absolute;
+    top: 250px;
+    left: 75vw;
+}
+.five {
+    position: absolute;
+    top: 500px;
+}
+.six {
+    position: absolute;
+    top: 500px;
+    left: 75vw;
+}
+.seven {
+    position: absolute;
+    top: 750px;
+}
+.eight {
+    position: absolute;
+    top: 330px;
+    left: 32vw;
+    border-radius: 16px;
+}
+.nine {
+    position: absolute;
+    top: 750px;
+    left: 75vw;
+}
